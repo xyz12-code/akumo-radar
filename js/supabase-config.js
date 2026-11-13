@@ -1,3 +1,3 @@
 /*! © 2026 Jiří Kos. Všechna práva vyhrazena. AKUMO RADAR. Kopírování a šíření bez svolení je zakázáno. */
 
-!function(e,t){"object"==typeof module&&module.exports?module.exports=t():e.AkumoSupabaseConfig=t()}("undefined"!=typeof globalThis?globalThis:this,function(){"use strict";return Object.freeze({projectRef:"uyjgjuinqtgstquhhvie",url:"https://uyjgjuinqtgstquhhvie.supabase.co",publishableKey:"sb_publishable_fFaNI1RVmDkDVqcUr3yBwA_YwPJosNs",historyTable:"akumo_search_history",dataTable:"akumo_dataset"})});
+!function(e,t){"object"==typeof module&&module.exports?module.exports=t():e.AkumoSupabaseConfig=t()}("undefined"!=typeof globalThis?globalThis:this,function(){"use strict";return Object.freeze({projectRef:"uyjgjuinqtgstquhhvie",url:"https://uyjgjuinqtgstquhhvie.supabase.co",publishableKey:"sb_publishable_fFaNI1RVmDkDVqcUr3yBwA_YwPJosNs",historyTable:"akumo_search_history",dataTable:"akumo_dataset",partCodesTable:"akumo_part_codes"})});
