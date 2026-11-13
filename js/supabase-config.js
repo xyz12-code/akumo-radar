@@ -1,0 +1,3 @@
+/*! © 2026 Jiří Kos. Všechna práva vyhrazena. AKUMO RADAR. Kopírování a šíření bez svolení je zakázáno. */
+
+!function(e,s){"object"==typeof module&&module.exports?module.exports=s():e.AkumoSupabaseConfig=s()}("undefined"!=typeof globalThis?globalThis:this,function(){"use strict";return Object.freeze({projectRef:"uyjgjuinqtgstquhhvie",url:"https://uyjgjuinqtgstquhhvie.supabase.co",publishableKey:"sb_publishable_fFaNI1RVmDkDVqcUr3yBwA_YwPJosNs",historyTable:"akumo_search_history"})});
